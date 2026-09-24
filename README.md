@@ -270,6 +270,8 @@ Interactive Slicers
 Business Intelligence
 Exploratory Data Analysis
 
-#screenshot/demo:-
-Show what the dashboard look like
-example:-![Amazon Sales Dashboard](https://github.com/Kashishkewat/amazon-sale-dashboard/blob/main/amazon%20sale%20dashboard.png?raw=true)
+## 📷 Screenshot / Demo
+
+Here is what the dashboard looks like:
+
+![Amazon Sales Dashboard](https://github.com/Kashishkewat/amazon-sale-dashboard/blob/main/amazon%20sale%20dashboard.png?raw=true)
