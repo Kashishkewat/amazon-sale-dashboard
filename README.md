@@ -272,4 +272,4 @@ Exploratory Data Analysis
 
 #screenshot/demo:-
 Show what the dashboard look like
-example:-(https://github.com/Kashishkewat/amazon-sale-dashboard/blob/main/amazon%20sale%20dashboard.png)
+example:-![Dashboard Preview].(https://github.com/Kashishkewat/amazon-sale-dashboard/blob/main/amazon%20sale%20dashboard.png)
